@@ -112,7 +112,7 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **emlement other enumerables like chain and chunk **
+- [ ] **implement other enumerable like chain and chunk **
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -123,7 +123,7 @@ Clone this repository to your desired folder:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/JOdiemo/emunerable/issues/).
+Feel free to check the [issues page](https://github.com/JOdiemo/enumerable/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
