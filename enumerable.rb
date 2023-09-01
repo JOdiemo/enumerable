@@ -1,3 +1,6 @@
+# frozen_string_literal: true
+
+# Module to test conditions
 module MyEnumerable
   def all?
     return 'No block given' unless block_given?
@@ -14,7 +17,7 @@ module MyEnumerable
     end
     false
   end
-  
+
   def filter
     collection = []
     each do |element|
@@ -23,4 +26,3 @@ module MyEnumerable
     collection
   end
 end
-
