@@ -1,6 +1,4 @@
-# frozen_string_literal: true
-
-require_relative './enumerable'
+require_relative 'enumerable'
 # Represents a list of elements tested for enumerable conditions
 class MyList
   include MyEnumerable
