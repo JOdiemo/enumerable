@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 # Module to test conditions
 module MyEnumerable
   def all?
