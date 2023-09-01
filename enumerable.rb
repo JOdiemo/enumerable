@@ -8,3 +8,19 @@ module MyEnumerable
     true
   end
 
+  def any?
+    each do |element|
+      return true if yield(element)
+    end
+    false
+  end
+  
+  def filter
+    collection = []
+    each do |element|
+      collection << element if yield(element)
+    end
+    collection
+  end
+end
+
